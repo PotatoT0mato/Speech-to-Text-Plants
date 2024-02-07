@@ -40,7 +40,8 @@ pip install calamanCy
 pip install pygame
 ```
 
-Usage
+Usage:
+
 Run the main file which would be named Speech-To-Text-Whisper.py
 
 Interface
