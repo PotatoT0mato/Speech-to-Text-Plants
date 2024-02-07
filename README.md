@@ -48,9 +48,9 @@ The application provides a simple and intuitive GUI for recording, playback, and
 
 # Future Enhancements
 Support for more languages in transcription and NLP processing.
-
+```
 Improved error handling and user feedback mechanisms.
-
+```
 Integration with external APIs for enhanced transcription accuracy.
 
 Feature to export transcribed text to a file.
