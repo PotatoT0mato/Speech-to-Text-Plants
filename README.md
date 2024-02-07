@@ -40,15 +40,17 @@ pip install calamanCy
 pip install pygame
 ```
 
-Usage:
-
+# Usage
 Run the main file which would be named Speech-To-Text-Whisper.py
 
-Interface
+# Interface
 The application provides a simple and intuitive GUI for recording, playback, and transcription. Users can start a new recording, play back the most recent recording, select an existing audio file for transcription, and extract specific words from the transcribed text.
 
-Future Enhancements
+# Future Enhancements
 Support for more languages in transcription and NLP processing.
+
 Improved error handling and user feedback mechanisms.
+
 Integration with external APIs for enhanced transcription accuracy.
+
 Feature to export transcribed text to a file.
